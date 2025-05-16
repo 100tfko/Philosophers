@@ -1,28 +1,26 @@
-# Philosophers <img src="https://tenor.com/blaFK.gif" width="50px">
+# Philosophers <img src="https://i.gifer.com/7ebB.gif" width="50px">
 <p>
-  This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.
+This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.
 </p>
 
 
 ## Key concepts:
 <ul>
-In this project, we need to create sorting algorithms that can sort stacks with a limited set of instructions.
-In the same sense, we must code another program that can check if a set of orders and stacks will make a correct result.
+In this project, we must implement a classic problem and exercise: the dining philosophers, where philosophers sit at a table and must share cutlery. In programming concepts, this illustrates how processes must share resources without encountering issues like data races and race conditions.
 </ul>
 
 ## Programming concepts:
 <ul>
-<li>Sorting algorithms</li>
-<li>Stack manipulation</li>
-<li>Algorithm optimization</li>
-<li>Time complexity</li>
-<li>Data structure</li>
+<li>Concurrent programming</li>
+<li>Synchronization/li>
+<li>Avoiding deadlocks</li>
+<li>Optimization</li>
   </ul>
 
 ## Technologies:
 <ul>
   <li>C</li>
-  <li>GIT</li>
+  <li>POSIX Threads (ptrheads)</li>
   <li>Makefile</li>
 </ul>
 
